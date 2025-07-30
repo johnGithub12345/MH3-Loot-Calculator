@@ -1,10 +1,13 @@
 # MH3-Loot-Calculator
-Average loot calculator for Monster Hunter Tri. Written in Python 3.10.9.
+Average loot calculator for Monster Hunter Tri. 
 
-Right now it's just a .py file. Requires 'tabulate' library.
+Prints a table of each item's mean quantity obtained from Main Quest rewards.
 
-Very early stages.
-Prints a table at you. Requires you to input drop rates for items of interest.
+Gives the data for the default droprates and all Fate/Luck skills.
+
+Right now it's just a .py file. Written in Python 3.10.9. Requires 'tabulate' library. 
+
+Requires user to input their own data for items of interest.
 
 TO-DO:
  - Subquests
