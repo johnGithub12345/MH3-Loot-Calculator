@@ -5,9 +5,9 @@ Prints a table of each item's average (mean) quantity obtained from Main Quest r
 
 Gives the data for the default droprates and all Fate/Luck skills.
 
-Right now it's just a .py file. Written in Python 3.10.9. Requires 'tabulate' library. 
-
 Requires user to input their own data for items of interest.
+
+Right now it's just a .py file. Written in Python 3.10.9. Requires 'tabulate' library. 
 
 TO-DO:
  - Subquests
