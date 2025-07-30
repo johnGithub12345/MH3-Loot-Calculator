@@ -1,7 +1,7 @@
 # MH3-Loot-Calculator
 Average loot calculator for Monster Hunter Tri. 
 
-Prints a table of each item's mean quantity obtained from Main Quest rewards.
+Prints a table of each item's average (mean) quantity obtained from Main Quest rewards.
 
 Gives the data for the default droprates and all Fate/Luck skills.
 
